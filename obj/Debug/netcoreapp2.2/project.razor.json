@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "/home/derik/workshops/debugws/debugws.csproj",
+  "ProjectFilePath": "c:\\Users\\Njabulo Nyanisa\\Desktop\\DebugWorkshopPrac1\\debugws.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }
